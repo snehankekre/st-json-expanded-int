@@ -1,11 +1,11 @@
-# Integer support for `st.json`'s `expanded` parameter
+# Integer support for st.json's expanded parameter
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://st-json-expanded-int.streamlit.app)
 
 Streamlit's [`st.json`](https://docs.streamlit.io/develop/api-reference/data/st.json) command now supports integer values for the `expanded` parameter, in addition to the existing `bool` support. This allows users to specify the depth to which the JSON should be expanded, collapsing deeper levels.
 
 
-### `st.json`
+## st.json
 
 Display object or string as a pretty-printed JSON string.
 
