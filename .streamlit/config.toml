@@ -1,6 +1,2 @@
 [client]
 showErrorDetails = true
-
-[theme]
-primaryColor = "#F63366"
-backgroundColor = "white"
